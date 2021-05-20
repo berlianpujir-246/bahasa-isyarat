@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>sekolah.5b0d65d2-b8ad-11eb-92a9-70f395aa965b.jpg</filename>
+	<path>C:\Users\Berlian Puji Rahma\Desktop\Project Bangkit\Tensorflow\workspace\images\collectedimages\sekolah.5b0d65d2-b8ad-11eb-92a9-70f395aa965b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sekolah</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>253</ymin>
+			<xmax>515</xmax>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+</annotation>

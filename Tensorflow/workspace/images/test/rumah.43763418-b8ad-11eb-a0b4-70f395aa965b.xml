@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>rumah.43763418-b8ad-11eb-a0b4-70f395aa965b.jpg</filename>
+	<path>C:\Users\Berlian Puji Rahma\Desktop\Project Bangkit\Tensorflow\workspace\images\collectedimages\rumah.43763418-b8ad-11eb-a0b4-70f395aa965b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rumah</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>276</xmin>
+			<ymin>136</ymin>
+			<xmax>581</xmax>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+</annotation>

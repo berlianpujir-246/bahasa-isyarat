@@ -1,0 +1,8 @@
+item { 
+	name:'Rumah'
+	id:1
+}
+item { 
+	name:'Sekolah'
+	id:2
+}
